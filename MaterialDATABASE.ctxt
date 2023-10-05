@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MaterialDATABASE
+comment0.text=\r\n\ \r\n\ This\ class\ will\ provide\ all\ datamanagment\ for\ all\ material\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=S
+comment10.target=boolean\ Validate_Price(java.lang.String)
+comment2.params=mainStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=javafx.collections.ObservableList\ RetrieveData()
+comment4.params=e
+comment4.target=void\ colName_OnEditCommit(javafx.event.Event)
+comment5.params=e
+comment5.target=void\ colPrice_OnEditCommit(javafx.event.Event)
+comment6.params=e
+comment6.target=void\ colID_OnEditCommit(javafx.event.Event)
+comment7.params=
+comment7.target=void\ buttonAdd_Clicked()
+comment8.params=
+comment8.target=void\ buttonDelete_Clicked()
+comment9.params=
+comment9.target=void\ Save()
+numComments=11

@@ -1,0 +1,3 @@
+Adam ,Smith ,102,6948696228,test1@gmail.com,322,434343,211,1000
+Nick,Iron,101,6948696337,test2@gmail.com,1000,1000,2000,1500
+George ,Man,100,6977226163,test3@gmail.com,800,200,1000,12

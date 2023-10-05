@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=orthodontex
+comment0.text=\r\n\ \r\n\ This\ class\ is\ the\ central\ access\ point\ for\ all\ other\ classes\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=e
+comment2.target=void\ handle(javafx.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ handle(javafx.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

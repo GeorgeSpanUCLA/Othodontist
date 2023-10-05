@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Material
+comment0.text=\r\nthis\ class\ will\ instate\ an\ object\ material\r\n
+comment1.params=
+comment1.target=Material()
+comment2.params=Name\ ID\ Price
+comment2.target=Material(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment5.params=
+comment5.target=int\ getPrice()
+comment6.params=Name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=ID
+comment7.target=void\ setID(java.lang.String)
+comment8.params=Price
+comment8.target=void\ setPrice(int)
+numComments=9

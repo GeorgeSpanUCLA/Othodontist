@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ClientStatus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ClientStatus\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ClientStatus()
+comment10.params=FDate
+comment10.target=void\ setFDate(java.lang.String)
+comment2.params=ID\ Finished\ Rating\ FDate
+comment2.target=ClientStatus(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=
+comment4.target=java.lang.String\ getFinished()
+comment5.params=
+comment5.target=java.lang.String\ getRating()
+comment6.params=
+comment6.target=java.lang.String\ getFDate()
+comment7.params=ID
+comment7.target=void\ setID(java.lang.String)
+comment8.params=Finished
+comment8.target=void\ setFinished(java.lang.String)
+comment9.params=Rating
+comment9.target=void\ setRating(java.lang.String)
+numComments=11

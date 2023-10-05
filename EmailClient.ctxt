@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EmailClient
+comment0.text=\r\n\ \r\n\ This\ class\ is\ responsible\ for\ handling\ Email\ settings\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=host\ port\ userName\ password\ toAddress\ subject\ message
+comment1.target=void\ sendPlainTextEmail(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment3.params=s\ Email
+comment3.target=void\ sent(int,\ java.lang.String)
+comment3.text=\r\n\ Test\ the\ send\ e-mail\ method\r\n\r\n
+numComments=4
